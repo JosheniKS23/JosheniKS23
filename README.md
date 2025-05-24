@@ -1,6 +1,6 @@
 ## Hlo👋, I'm Josheni K S
- (-)🔭 I’m a Workaholic    
- (-)🌱 I’m Trainee programmer
+ (-) 🔭 I’m a Workaholic    
+ (-) 🌱 I’m Trainee programmer
 
 
 <!--
