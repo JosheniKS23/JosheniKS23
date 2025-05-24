@@ -1,4 +1,7 @@
 ## Hlo👋, I'm Josheni K S
+🔭 I’m a Workaholic
+🌱 I’m Trainee programmer
+
 
 <!--
 **JosheniKS23/JosheniKS23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
